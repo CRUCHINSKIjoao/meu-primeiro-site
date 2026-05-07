@@ -4,8 +4,24 @@ body{
 
 header{
     background-color: blueviolet;
+    text-align: ;
 }
 
-header div img{
+#img-fenix{
     width:300px;
 }
+ .paragrafo{
+    text-align: center;
+    padding: 50px;
+    font-size: 25px;
+ }
+ .titulo{
+    text-align: center;
+    padding: 60px;
+    font-size: 60px;
+ }
+
+ .subtitulo{
+    padding: 30px;
+    font-size: 45px
+ }
