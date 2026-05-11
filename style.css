@@ -13,15 +13,21 @@ header{
  .paragrafo{
     text-align: center;
     padding: 50px;
-    font-size: 25px;
+    font-size: 30px;
  }
  .titulo{
     text-align: center;
-    padding: 60px;
-    font-size: 60px;
+    padding: 30px;
+    font-size: 70px;
  }
 
  .subtitulo{
-    padding: 30px;
+    padding: 0px;
     font-size: 45px
+ }
+
+ #mitologia{
+    width:800px;
+    display: block;
+    margin: 0 auto;
  }
